@@ -1,0 +1,211 @@
+
+.top_head {
+    color: black ;
+    background-color: hotpink;
+    height: 40px;
+    width: 100%;
+    }
+
+    .img-1 {
+        position: relative;
+        max-width: max-content;
+        margin: 0 auto;
+        display: flex;
+        background-size: cover;
+    }
+
+    .img-1 .head {
+        position: absolute;
+        bottom: 35%;
+        color: white;
+        width: 100%;
+        padding-left: 20%;
+        font-size: 50px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+   /* .bharatiya {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+    } */
+
+    .logo-firstlevel {
+        display: inline-block;
+        padding-left: 30px;      
+    }
+
+    .logo-firstlevel .bharatiya {
+       padding-left: 60px;
+       
+    }
+
+    .logo-firstlevel .cambridge {
+        padding-left: 140px;
+    }
+ 
+    .logo-firstlevel .cambridge-2 {
+        padding-left: 140px;
+    
+    }
+
+    .logo-secondlevel {
+        display: inline-block;
+        padding-top: 10px;
+    }
+
+    .logo-secondlevel .untitled {
+        padding-left: 60px;
+        padding-top: 30px;
+    }
+
+    
+    .logo-secondlevel .untitled-2 {
+        padding-left: 140px;
+    
+    }
+    
+    .logo-secondlevel .sanskar {
+        padding-left: 140px;
+        
+    }
+
+    .logo-thirdlevel {
+        display: inline-block;
+        padding-top: 10px;
+    }
+
+    .logo-thirdlevel .removebg {
+        padding-left: 50px;
+        padding-bottom: 70px;
+    }
+
+    .logo-thirdlevel .delhi {
+        padding-left: 140px;
+        
+    }
+
+    .logo-thirdlevel .candlewick {
+        padding-left: 170px;
+        padding-bottom: 150px;
+    
+    }
+    .logo-fourthlevel {
+     display: inline-block;
+     padding-top: 10px;
+    }
+
+    .logo-fourthlevel .fourth-1 {
+        padding-left: 50px;
+    
+    }
+    .logo-fourthlevel .fourth-2 {
+        padding-left: 210px;
+        
+    }
+    .logo-fourthlevel .fourth-3 {
+        padding-left: 250px;
+
+    }
+
+    .logo-fivthlevel {
+        display: inline-block;
+        padding-top: 10px;
+    }
+
+    .logo-fivthlevel .fivth-1 {
+        padding-left: 50px;
+
+    }
+    .logo-fivthlevel .fivth-2 {
+        padding-left: 200px;
+    
+    }
+    .logo-fivthlevel .fivth-3 {
+        padding-left: 240px;
+    
+    }
+
+    .logo-sixthlevel {
+        display: inline-block;
+        padding-top: 10px;
+    }
+
+    .logo-sixthlevel .sixth-1 {
+        padding-left: 30px;
+    
+    }
+    .logo-sixthlevel .sixth-2 {
+        padding-left: 150px;
+    
+    }
+
+    .logo-sixthlevel .sixth-3 {
+        padding-left: 260px;
+    }
+    
+
+    .logo-seventhlevel {
+        display: inline-block;
+        padding-top: 10px;
+    }
+
+    .logo-seventhlevel .seventh-1 {
+        padding-left: 80px;
+    
+    }
+
+    .logo-seventhlevel .seventh-2 {
+        padding-left: 260px;
+    }
+
+    .logo-seventhlevel .seventh-3 {
+        padding-left: 210px;
+
+    }
+
+    .logo-eigthlevel {
+        display: inline-block;
+        padding-top: 10px;
+    }
+     .logo-eigthlevel .eigth-1 {
+        padding-left: 40px;
+     }
+     .logo-eigthlevel .eigth-2 {
+        padding-left: 150px;
+     }
+     .logo-eigthlevel .eigth-3 {
+        padding-left: 170px;
+     }
+
+     .logo-ninthlevel {
+        display: inline-block;
+        padding-bottom: 10px;
+     }
+     .logo-ninthlevel .ninth-1 {
+        padding-left: 80px;
+        padding-top: 30px;
+     }
+     .logo-ninthlevel .ninth-2 {
+        padding-left: 140px;
+     }
+     .logo-ninthlevel .ninth-3 {
+        padding-left: 140px;
+        padding-bottom: 50px;
+     }
+
+
+     .logo-tenthlevel {
+        display: inline-block;
+        padding-top: 10px;
+     }
+     .logo-tenthlevel .tenth-1 {
+        padding-left: 50px;
+     }
+     .logo-tenthlevel .tenth-2 {
+        padding-left: 180px;
+    }
+    .logo-tenthlevel .tenth-3 {
+        padding-left: 180px;
+    }
